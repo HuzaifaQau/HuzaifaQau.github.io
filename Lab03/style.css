@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(180, 176, 176);
+    color: #1a1919;
+}
+
+h1 {
+    color: #161f29;
+    background-color: #4b5763;
+}
+
+h2, h3 {
+    color: #34495e;
+}
+
+img {
+    border: 2px solid #2c3e50;
+}
+
+a {
+    color: #2980b9;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #043117;
+}
+
+h3::first-letter{
+    font-size: 2em;
+    color: #0b1c2c;
+}
